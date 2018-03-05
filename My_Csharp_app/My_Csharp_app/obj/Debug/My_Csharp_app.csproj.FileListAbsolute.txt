@@ -1,0 +1,1 @@
+D:\git\c_sharp_test\My_Csharp_app\My_Csharp_app\bin\Debug\My_Csharp_app.exe.config
